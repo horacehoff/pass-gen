@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 int main() {
-  // Prints the title and asks the user for the desired length of their password
+  // Prints the title and asks the user for the password's desired length
   std::cout << "== PASS-GEN ==\n";
   std::cout << "[+] Desired password length: ";
   int password_length;
